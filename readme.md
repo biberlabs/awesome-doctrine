@@ -8,6 +8,17 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Doctrine fixtures](http://www.slideshare.net/bill16301/doctrine-fixtures) - 13 slides intro to Doctrine Fixtures with Faker [2013-09-26]
 
 
+## Articles
+
+* [Mastering Doctrine performance](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014-04-21]
+* [Doctrine 2 in Depth](http://www.krueckeberg.org/notes/d2.html)
+
+### Repositories
+
+* [On Taming Repository Classes in Doctrine](http://www.whitewashing.de/2013/03/04/doctrine_repositories.html) [2013-03-04]
+* [Taiming repository classes in Doctrine with the QueryBuilder](http://dev.imagineeasy.com/post/44139111915/taiming-repository-classes-in-doctrine-with-the) [2013-02-27]
+
+
 ## Libraries
 
 **Doctrine libraries**
