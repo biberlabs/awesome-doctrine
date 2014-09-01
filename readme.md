@@ -16,6 +16,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Mastering Doctrine performance](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014-04]
 * [Doctrine 2 in Depth](http://www.krueckeberg.org/notes/d2.html)
 * [How to manage fixtures in a PHP project](http://www.theodo.fr/blog/2013/08/managing-fixtures/) [2013-08]
+* [Some Doctrine 2 best practices](http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/) - about performance [2012-01]
 
 
 ### Repositories
@@ -27,6 +28,16 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 ### Entities
 
 * [Filtering associations with Doctrine 2](http://www.boxuk.com/blog/filtering-associations-with-doctrine-2/) - criteria filtering [2013-01]
+
+
+### Nette related
+
+* [Sbohem NDBT, vítej Doctrine](http://www.zeminem.cz/sbohem-ndbt-vitej-doctrine) [2014-04, cs]
+
+
+### Laravel releated
+
+* [Getting started with Doctrine 2 and Laravel](http://culttt.com/2014/06/30/getting-started-doctrine-2-laravel/) [2014-06]
 
 
 
