@@ -19,6 +19,13 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Some Doctrine 2 best practices](http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/) - about performance [2012-01]
 
 
+
+## Series for beginners
+
+* [Culttt](http://culttt.com/search/?q=doctrine) - articles on various basic topics [2014]
+* [Zdroják.cz](http://www.zdrojak.cz/serialy/doctrine-2/) - 12 articles step by step [2010, cs]
+
+
 ### Repositories
 
 * [On Taming Repository Classes in Doctrine](http://www.whitewashing.de/2013/03/04/doctrine_repositories.html) [2013-03]
@@ -66,3 +73,9 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 ## Books
 
 * [Persistence in PHP with Doctrine ORM](http://www.amazon.com/Persistence-PHP-Doctrine-K%C3%A9vin-Dunglas/dp/1782164103) [2013-12]
+
+
+
+## Open source use case
+
+* [fprochazka\project-archivist](https://github.com/fprochazka/project-archivist) - source code of [help.kdyby.org](https://help.kdyby.org/), built on Nette
