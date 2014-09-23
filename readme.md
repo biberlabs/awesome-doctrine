@@ -62,6 +62,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Zenify\DoctrineBehaviors](https://github.com/Zenify/DoctrineBehaviors) - Port of KnpLabs/DoctrineBehaviors to Nette
 * [Zenify\DoctrineMigrations](https://github.com/Zenify/DoctrineMigrations) - Implementation of Doctrine Migrations to Nette 
 * [Zenify\DoctrineMethodsHydrator](https://github.com/Zenify/DoctrineMethodsHydrator) - Hydrates presenter methods from parameters to entities
+* [Zenify\DoctrineFixtures](https://github.com/Zenify/DoctrineFixtures) - Doctrine Fixtures, Faker and Alice integration to Nette
 
 
 ### Symfony bundles
