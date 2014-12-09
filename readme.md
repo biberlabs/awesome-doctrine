@@ -43,7 +43,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Sbohem NDBT, vítej Doctrine](http://www.zeminem.cz/sbohem-ndbt-vitej-doctrine) [2014-04, cs]
 
 
-### Laravel releated
+### Laravel related
 
 * [Getting started with Doctrine 2 and Laravel](http://culttt.com/2014/06/30/getting-started-doctrine-2-laravel/) [2014-06]
 
