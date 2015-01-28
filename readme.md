@@ -40,6 +40,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ### Nette related
 
+* [Jak začít a propojit Doctrine a Nette Framework](http://blog.honzacerny.com/post/3-jak-zacit-a-propojit-doctrine-a-nette-framework) [2015-01, cs]
 * [Sbohem NDBT, vítej Doctrine](http://www.zeminem.cz/sbohem-ndbt-vitej-doctrine) [2014-04, cs]
 
 
