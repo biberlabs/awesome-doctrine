@@ -37,6 +37,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 * [Filtering associations with Doctrine 2](http://www.boxuk.com/blog/filtering-associations-with-doctrine-2/) - criteria filtering [2013-01]
 * [ManyToMany with extra columns](http://stackoverflow.com/questions/3542243/doctrine2-best-way-to-handle-many-to-many-with-extra-columns-in-reference-table) - Stackoverflow [2011]
+* [Validate property by another property](http://stackoverflow.com/questions/12260705/validate-a-property-dependent-on-another-property-symfony-2) [2012-09]
 
 
 ### Nette related
