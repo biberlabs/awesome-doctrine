@@ -36,6 +36,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 ### Entities
 
 * [Filtering associations with Doctrine 2](http://www.boxuk.com/blog/filtering-associations-with-doctrine-2/) - criteria filtering [2013-01]
+* [ManyToMany with extra columns](http://stackoverflow.com/questions/3542243/doctrine2-best-way-to-handle-many-to-many-with-extra-columns-in-reference-table) - Stackoverflow [2011]
 
 
 ### Nette related
