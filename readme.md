@@ -29,6 +29,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ### Repositories
 
+* [Specification pattern ...among other things](http://blog.kevingomez.fr/2015/02/07/on-taming-repository-classes-in-doctrine-among-other-things/) [2015-01]
 * [On Taming Repository Classes in Doctrine](http://www.whitewashing.de/2013/03/04/doctrine_repositories.html) [2013-03]
 * [Taiming repository classes in Doctrine with the QueryBuilder](http://dev.imagineeasy.com/post/44139111915/taiming-repository-classes-in-doctrine-with-the) [2013-02]
 
