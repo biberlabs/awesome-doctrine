@@ -34,6 +34,11 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Taiming repository classes in Doctrine with the QueryBuilder](http://dev.imagineeasy.com/post/44139111915/taiming-repository-classes-in-doctrine-with-the) [2013-02]
 
 
+### Domain model
+
+- [Rich domain model with symfony 2.5 and doctrine 2.5](http://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014-10]
+
+
 ### Entities
 
 * [Filtering associations with Doctrine 2](http://www.boxuk.com/blog/filtering-associations-with-doctrine-2/) - criteria filtering [2013-01]
