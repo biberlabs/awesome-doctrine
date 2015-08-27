@@ -3,6 +3,10 @@
 A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny things.
 
 
+## Best practices
+
+* [Doctrine ORM Good Practices and Tricks](https://vimeo.com/134178140) [2015]
+
 
 ## Slides
 
