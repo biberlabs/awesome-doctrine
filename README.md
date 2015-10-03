@@ -5,13 +5,14 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Best practices
 
+* [Why Doctrine ORM is not suited for PHP](http://blog.bemycto.com/software-architecture/2015-05-17/doctrine-orm-not-suited-php/) [2015-05]
 * [Doctrine 2 - To Use or Not to Use](https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html) [2015-05]
 * [Doctrine ORM Good Practices and Tricks](https://vimeo.com/134178140) - [slides](http://ocramius.github.io/doctrine-best-practices/#/) [2015] 
 
 
 ## Slides
 
-* [Doctrine 2 basic concepts](https://prezi.com/v3rhah2gqfvp/doctrine2-basic-concepts/) - Very simple intro into Doctrine basics[2014-04]
+* [Doctrine 2 basic concepts](https://prezi.com/v3rhah2gqfvp/doctrine2-basic-concepts/) - Very simple intro into Doctrine basics [2014-04]
 * [Effective Doctrine2: Performance Tips for Symfony2 Developers](http://pt.slideshare.net/marcinchwedziak/effective-doctrine2-performance-tips-for-symfony2-developers-33907944) [2014-04]
 * [Extending Doctrine 2 For Your Domain Model](https://speakerdeck.com/player/50548d22bf73df0002051b1f) - 171 lightweight slides with specific examples [2014-06]
 * [Doctrine fixtures](http://www.slideshare.net/bill16301/doctrine-fixtures) - 13 slides intro to Doctrine Fixtures with Faker [2013-09]
