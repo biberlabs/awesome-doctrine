@@ -5,6 +5,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Best practices
 
+* [Doctrine 2 - To Use or Not to Use](https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html) [2015-05]
 * [Doctrine ORM Good Practices and Tricks](https://vimeo.com/134178140) - [slides](http://ocramius.github.io/doctrine-best-practices/#/) [2015] 
 
 
@@ -19,12 +20,11 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Articles
 
-* [5 Doctrine ORM Performance Traps You Should Avoid](https://tideways.io/profiler/blog/5-doctrine-orm-performance-traps-you-should-avoid) [2015-06]
+* [5 Doctrine ORM Performance Traps You Should  Avoid](https://tideways.io/profiler/blog/5-doctrine-orm-performance-traps-you-should-avoid) [2015-06]
 * [Mastering Doctrine performance](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014-04]
 * [Doctrine 2 in Depth](http://www.krueckeberg.org/notes/d2.html)
 * [How to manage fixtures in a PHP project](http://www.theodo.fr/blog/2013/08/managing-fixtures/) [2013-08]
 * [Some Doctrine 2 best practices](http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/) - about performance [2012-01]
-
 
 
 ## Series for beginners
