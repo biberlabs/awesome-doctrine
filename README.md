@@ -5,8 +5,8 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Best practices
 
-* [Why Doctrine ORM is not suited for PHP](http://blog.bemycto.com/software-architecture/2015-05-17/doctrine-orm-not-suited-php/) [2015-05]
-* [Doctrine 2 - To Use or Not to Use](https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html) [2015-05]
+* [Why Doctrine ORM is not suited for PHP](http://blog.bemycto.com/software-architecture/2015-05-17/doctrine-orm-not-suited-php/) [2015]
+* [Doctrine 2 - To Use or Not to Use](https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html) [2015]
 * [Doctrine ORM Good Practices and Tricks](https://vimeo.com/134178140) - [slides](http://ocramius.github.io/doctrine-best-practices/#/) [2015] 
 
 
@@ -21,11 +21,11 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Articles
 
-* [5 Doctrine ORM Performance Traps You Should  Avoid](https://tideways.io/profiler/blog/5-doctrine-orm-performance-traps-you-should-avoid) [2015-06]
-* [Mastering Doctrine performance](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014-04]
+* [5 Doctrine ORM Performance Traps You Should  Avoid](https://tideways.io/profiler/blog/5-doctrine-orm-performance-traps-you-should-avoid) [2015]
+* [Mastering Doctrine performance](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014]
 * [Doctrine 2 in Depth](http://www.krueckeberg.org/notes/d2.html)
-* [How to manage fixtures in a PHP project](http://www.theodo.fr/blog/2013/08/managing-fixtures/) [2013-08]
-* [Some Doctrine 2 best practices](http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/) - about performance [2012-01]
+* [How to manage fixtures in a PHP project](http://www.theodo.fr/blog/2013/08/managing-fixtures/) [2013]
+* [Some Doctrine 2 best practices](http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/) - about performance [2012]
 
 
 ## Series for beginners
@@ -36,32 +36,32 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ### Repositories
 
-* [Specification pattern ...among other things](http://blog.kevingomez.fr/2015/02/07/on-taming-repository-classes-in-doctrine-among-other-things/) [2015-01]
-* [On Taming Repository Classes in Doctrine](http://www.whitewashing.de/2013/03/04/doctrine_repositories.html) [2013-03]
-* [Taiming repository classes in Doctrine with the QueryBuilder](http://dev.imagineeasy.com/post/44139111915/taiming-repository-classes-in-doctrine-with-the) [2013-02]
+* [Specification pattern ...among other things](http://blog.kevingomez.fr/2015/02/07/on-taming-repository-classes-in-doctrine-among-other-things/) [2015]
+* [On Taming Repository Classes in Doctrine](http://www.whitewashing.de/2013/03/04/doctrine_repositories.html) [2013]
+* [Taiming repository classes in Doctrine with the QueryBuilder](http://dev.imagineeasy.com/post/44139111915/taiming-repository-classes-in-doctrine-with-the) [2013]
 
 
 ### Domain model
 
-- [Rich domain model with symfony 2.5 and doctrine 2.5](http://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014-10]
+- [Rich domain model with symfony 2.5 and doctrine 2.5](http://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
 
 
 ### Entities
 
-* [Filtering associations with Doctrine 2](http://www.boxuk.com/blog/filtering-associations-with-doctrine-2/) - criteria filtering [2013-01]
+* [Filtering associations with Doctrine 2](http://www.boxuk.com/blog/filtering-associations-with-doctrine-2/) - criteria filtering [2013]
 * [ManyToMany with extra columns](http://stackoverflow.com/questions/3542243/doctrine2-best-way-to-handle-many-to-many-with-extra-columns-in-reference-table) - Stackoverflow [2011]
-* [Validate property by another property](http://stackoverflow.com/questions/12260705/validate-a-property-dependent-on-another-property-symfony-2) [2012-09]
+* [Validate property by another property](http://stackoverflow.com/questions/12260705/validate-a-property-dependent-on-another-property-symfony-2) [2012]
 
 
 ### Nette related
 
-* [Jak začít a propojit Doctrine a Nette Framework](http://blog.honzacerny.com/post/3-jak-zacit-a-propojit-doctrine-a-nette-framework) [2015-01, cs]
-* [Sbohem NDBT, vítej Doctrine](http://www.zeminem.cz/sbohem-ndbt-vitej-doctrine) [2014-04, cs]
+* [Jak začít a propojit Doctrine a Nette Framework](http://blog.honzacerny.com/post/3-jak-zacit-a-propojit-doctrine-a-nette-framework) [2015, cs]
+* [Sbohem NDBT, vítej Doctrine](http://www.zeminem.cz/sbohem-ndbt-vitej-doctrine) [2014, cs]
 
 
 ### Laravel related
 
-* [Getting started with Doctrine 2 and Laravel](http://culttt.com/2014/06/30/getting-started-doctrine-2-laravel/) [2014-06]
+* [Getting started with Doctrine 2 and Laravel](http://culttt.com/2014/06/30/getting-started-doctrine-2-laravel/) [2014]
 
 
 
@@ -90,7 +90,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Books
 
-* [Persistence in PHP with Doctrine ORM](http://www.amazon.com/Persistence-PHP-Doctrine-K%C3%A9vin-Dunglas/dp/1782164103) [2013-12]
+* [Persistence in PHP with Doctrine ORM](http://www.amazon.com/Persistence-PHP-Doctrine-K%C3%A9vin-Dunglas/dp/1782164103) [2013]
 
 
 
