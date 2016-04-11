@@ -12,10 +12,10 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Slides
 
-* [Doctrine 2 basic concepts](https://prezi.com/v3rhah2gqfvp/doctrine2-basic-concepts/) - Very simple intro into Doctrine basics [2014-04]
-* [Effective Doctrine2: Performance Tips for Symfony2 Developers](http://pt.slideshare.net/marcinchwedziak/effective-doctrine2-performance-tips-for-symfony2-developers-33907944) [2014-04]
-* [Extending Doctrine 2 For Your Domain Model](https://speakerdeck.com/player/50548d22bf73df0002051b1f) - 171 lightweight slides with specific examples [2014-06]
-* [Doctrine fixtures](http://www.slideshare.net/bill16301/doctrine-fixtures) - 13 slides intro to Doctrine Fixtures with Faker [2013-09]
+* [Doctrine 2 basic concepts](https://prezi.com/v3rhah2gqfvp/doctrine2-basic-concepts/) - Very simple intro into Doctrine basics [2014]
+* [Effective Doctrine2: Performance Tips for Symfony2 Developers](http://pt.slideshare.net/marcinchwedziak/effective-doctrine2-performance-tips-for-symfony2-developers-33907944) [2014]
+* [Extending Doctrine 2 For Your Domain Model](https://speakerdeck.com/player/50548d22bf73df0002051b1f) - 171 lightweight slides with specific examples [2014]
+* [Doctrine fixtures](http://www.slideshare.net/bill16301/doctrine-fixtures) - 13 slides intro to Doctrine Fixtures with Faker [2013]
 
 
 
