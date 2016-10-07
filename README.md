@@ -64,39 +64,9 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Getting started with Doctrine 2 and Laravel](http://culttt.com/2014/06/30/getting-started-doctrine-2-laravel/) [2014]
 
 
-
-## Libraries
-
-* [doctrine\migrations](https://github.com/doctrine/migrations) - Doctrine Database Migrations Library 
-* [doctrine\data-fixtures](https://github.com/doctrine/data-fixtures) - Doctrine2 ORM Data Fixtures Extensions
-* [KnpLabs\DoctrineBehaviors](https://github.com/KnpLabs/DoctrineBehaviors/) - Doctrine2 behavior traits, like tree, translatable, timestampable, softdeletable, blameable, loggable, sluggable etc.
-* [Nelmio\Alice](https://github.com/nelmio/alice) - Data fixtures generator. Supports [fzaninotto\Faker](https://github.com/fzaninotto/Faker)
-
-
-### Nette extensions
-
-* [Kdyby\Doctrine](https://github.com/Kdyby/Doctrine) - Doctrine 2 ORM integration into Nette Framework
-* [Zenify\DoctrineBehaviors](https://github.com/Zenify/DoctrineBehaviors) - Port of KnpLabs/DoctrineBehaviors to Nette
-* [Zenify\DoctrineMigrations](https://github.com/Zenify/DoctrineMigrations) - Implementation of Doctrine Migrations to Nette 
-* [Zenify\DoctrineMethodsHydrator](https://github.com/Zenify/DoctrineMethodsHydrator) - Hydrates presenter methods from parameters to entities
-* [Zenify\DoctrineFixtures](https://github.com/Zenify/DoctrineFixtures) - Doctrine Fixtures, Faker and Alice integration to Nette
-
-
-### Symfony bundles
-
-* [hautelook\AliceBundle](https://github.com/hautelook/AliceBundle) - A Symfony2 bundle to help load Doctrine Fixtures with Alice
-
-
-
 ## Books
 
 * [Persistence in PHP with Doctrine ORM](http://www.amazon.com/Persistence-PHP-Doctrine-K%C3%A9vin-Dunglas/dp/1782164103) [2013]
-
-
-
-## Open source use case
-
-* [fprochazka\project-archivist](https://github.com/fprochazka/project-archivist) - source code of [help.kdyby.org](https://help.kdyby.org/), built on Nette
 
 
 ## License
