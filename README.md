@@ -27,7 +27,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [How to manage fixtures in a PHP project](http://www.theodo.fr/blog/2013/08/managing-fixtures/) [2013]
 * [Some Doctrine 2 best practices](http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/) - about performance [2012]
 * [Persisting Value Objects in Doctrine](http://rosstuck.com/persisting-value-objects-in-doctrine/) [2014]
-* [Value Objects, Immutable objects and Doctrine Embeddables](http://aerendir.me/2015/07/03/php-and-doctrine-immutable-objects-value-objects-and-embeddables/) [2015]
+* [Value Objects, Immutable objects and Doctrine Embeddables](http://web.archive.org/web/20151211161447/http://aerendir.me/2015/07/03/php-and-doctrine-immutable-objects-value-objects-and-embeddables/) [2015]
 
 
 ## Series for beginners
