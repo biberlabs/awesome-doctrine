@@ -5,7 +5,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Best practices
 
-* [Why Doctrine ORM is not suited for PHP](http://blog.bemycto.com/software-architecture/2015-05-17/doctrine-orm-not-suited-php/) [2015]
+* [Why Doctrine ORM is not suited for PHP](http://web.archive.org/web/20160409001634/http://blog.bemycto.com/software-architecture/2015-05-17/doctrine-orm-not-suited-php) [2015]
 * [Doctrine 2 - To Use or Not to Use](https://qafoo.com/resources/presentations/symfony_live_london_2015/doctrine2_to_use_or_not_to_use.html) [2015]
 * [Doctrine ORM Good Practices and Tricks](https://vimeo.com/134178140) - [slides](http://ocramius.github.io/doctrine-best-practices/#/) [2015] 
 
