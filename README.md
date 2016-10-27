@@ -3,6 +3,12 @@
 A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny things.
 
 
+## Series for beginners
+
+* [Culttt](http://culttt.com/search/?q=doctrine) - articles on various basic topics [2014]
+* [Zdroják.cz](http://www.zdrojak.cz/serialy/doctrine-2/) - 12 articles step by step [2010, cs]
+
+
 ## Best practices
 
 * [Why Doctrine ORM is not suited for PHP](http://web.archive.org/web/20160409001634/http://blog.bemycto.com/software-architecture/2015-05-17/doctrine-orm-not-suited-php) [2015]
@@ -30,37 +36,31 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Value Objects, Immutable objects and Doctrine Embeddables](http://web.archive.org/web/20151211161447/http://aerendir.me/2015/07/03/php-and-doctrine-immutable-objects-value-objects-and-embeddables/) [2015]
 
 
-## Series for beginners
-
-* [Culttt](http://culttt.com/search/?q=doctrine) - articles on various basic topics [2014]
-* [Zdroják.cz](http://www.zdrojak.cz/serialy/doctrine-2/) - 12 articles step by step [2010, cs]
-
-
-### Repositories
+## Repositories
 
 * [Specification pattern ...among other things](http://blog.kevingomez.fr/2015/02/07/on-taming-repository-classes-in-doctrine-among-other-things/) [2015]
 * [On Taming Repository Classes in Doctrine](http://www.whitewashing.de/2013/03/04/doctrine_repositories.html) [2013]
 * [Taiming repository classes in Doctrine with the QueryBuilder](http://dev.imagineeasy.com/post/44139111915/taiming-repository-classes-in-doctrine-with-the) [2013]
 
 
-### Domain model
+## Domain model
 
 - [Rich domain model with symfony 2.5 and doctrine 2.5](http://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
 
 
-### Entities
+## Entities
 
 * [Filtering associations with Doctrine 2](http://www.boxuk.com/blog/filtering-associations-with-doctrine-2/) - criteria filtering [2013]
 * [ManyToMany with extra columns](http://stackoverflow.com/questions/3542243/doctrine2-best-way-to-handle-many-to-many-with-extra-columns-in-reference-table) - Stackoverflow [2011]
 
 
-### Nette related
+## Nette related
 
 * [Jak začít a propojit Doctrine a Nette Framework](http://blog.honzacerny.com/post/3-jak-zacit-a-propojit-doctrine-a-nette-framework) [2015, cs]
 * [Sbohem NDBT, vítej Doctrine](http://www.zeminem.cz/sbohem-ndbt-vitej-doctrine) [2014, cs]
 
 
-### Laravel related
+## Laravel related
 
 * [Getting started with Doctrine 2 and Laravel](http://culttt.com/2014/06/30/getting-started-doctrine-2-laravel/) [2014]
 
