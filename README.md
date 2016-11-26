@@ -24,7 +24,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Articles
 
-* [Doctrine 2 in Depth](http://www.krueckeberg.org/notes/d2.html)
+* [Doctrine 2 in Depth](https://web.archive.org/web/*/http://krueckeberg.org/notes/d2.html)
 * [Some Doctrine 2 best practices](http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/) - about performance [2012]
 * [Persisting Value Objects in Doctrine](http://rosstuck.com/persisting-value-objects-in-doctrine/) [2014]
 
