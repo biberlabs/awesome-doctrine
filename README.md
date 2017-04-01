@@ -6,7 +6,6 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 ## For beginners
 
 * [Culttt](http://culttt.com/search/?q=doctrine) - articles on various basic topics [2014]
-* [Zdroják.cz](http://www.zdrojak.cz/serialy/doctrine-2/) - 12 articles step by step [2010, cs]
 * [Doctrine 2 basic concepts](https://prezi.com/v3rhah2gqfvp/doctrine2-basic-concepts/) - Very simple intro into Doctrine basics [2014]
 
 
@@ -56,11 +55,6 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 * [Jak začít a propojit Doctrine a Nette Framework](http://blog.honzacerny.com/post/3-jak-zacit-a-propojit-doctrine-a-nette-framework) [2015, cs]
 * [Sbohem NDBT, vítej Doctrine](http://www.zeminem.cz/sbohem-ndbt-vitej-doctrine) [2014, cs]
-
-
-## Laravel related
-
-* [Getting started with Doctrine 2 and Laravel](http://culttt.com/2014/06/30/getting-started-doctrine-2-laravel/) [2014]
 
 
 ## Books
