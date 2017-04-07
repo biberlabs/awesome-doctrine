@@ -43,6 +43,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Mastering Doctrine performance](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014]
 * [5 Doctrine ORM Performance Traps You Should  Avoid](https://tideways.io/profiler/blog/5-doctrine-orm-performance-traps-you-should-avoid) [2015]
 * [Effective Doctrine2: Performance Tips for Symfony2 Developers](http://pt.slideshare.net/marcinchwedziak/effective-doctrine2-performance-tips-for-symfony2-developers-33907944) [2014]
+* [Doctrine ORM Hydration Performance Optimization](https://ocramius.github.io/blog/doctrine-orm-optimization-hydration/) [2015]
 
 
 ## Entities
