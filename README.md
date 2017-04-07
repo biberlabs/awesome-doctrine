@@ -62,6 +62,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 ## Books
 
 * [Persistence in PHP with Doctrine ORM](http://www.amazon.com/Persistence-PHP-Doctrine-K%C3%A9vin-Dunglas/dp/1782164103) [2013]
+* [12. Database Management with Doctrine ORM with Zend Framework](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/en/Database_Management_with_Doctrine_ORM.html) - This is a part of Using Zend Framework 3 book
 
 
 ## License
