@@ -66,12 +66,12 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Related Projects
 
- * [Doctrine UUID - Allow the use of a ramsey/uuid UUID as Doctrine field type.](https://github.com/ramsey/uuid-doctrine)
- * [Doctrine2 Behaviors - Blameable, Filterable, Geocodable, Joinable, Loggable, Sluggable, SoftDeletable, Sortable, Timestampable, Translatable, Tree)](https://github.com/KnpLabs/DoctrineBehaviors)
- * [Doctrine2 Behavioral Extensions - Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable](https://github.com/Atlantic18/DoctrineExtensions)
+ * [Doctrine UUID](https://github.com/ramsey/uuid-doctrine) - Allow the use of a ramsey/uuid UUID as Doctrine field type.
+ * [Doctrine2 Behaviors](https://github.com/KnpLabs/DoctrineBehaviors)
+ * [Doctrine2 Behavioral Extensions](https://github.com/Atlantic18/DoctrineExtensions)
  * [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations)
- * [Doctrine2 Spatial - Multi-platform support for spatial types and functions](https://github.com/creof/doctrine2-spatial)
- * [Doctrine Specification - Gives you a new way for writing queries](https://github.com/Happyr/Doctrine-Specification)
+ * [Doctrine2 Spatial](https://github.com/creof/doctrine2-spatial) - Multi-platform support for spatial types and functions
+ * [Doctrine Specification](https://github.com/Happyr/Doctrine-Specification) - Gives you a new way for writing queries
 
 
 ## License
