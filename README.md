@@ -64,6 +64,15 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Persistence in PHP with Doctrine ORM](http://www.amazon.com/Persistence-PHP-Doctrine-K%C3%A9vin-Dunglas/dp/1782164103) [2013]
 * [12. Database Management with Doctrine ORM with Zend Framework](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/en/Database_Management_with_Doctrine_ORM.html) - This is a part of Using Zend Framework 3 book
 
+## Related Projects
+
+ * [Doctrine UUID - Allow the use of a ramsey/uuid UUID as Doctrine field type.](https://github.com/ramsey/uuid-doctrine)
+ * [Doctrine2 Behaviors - Blameable, Filterable, Geocodable, Joinable, Loggable, Sluggable, SoftDeletable, Sortable, Timestampable, Translatable, Tree)](https://github.com/KnpLabs/DoctrineBehaviors)
+ * [Doctrine2 Behavioral Extensions - Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable](https://github.com/Atlantic18/DoctrineExtensions)
+ * [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations)
+ * [Doctrine2 Spatial - Multi-platform support for spatial types and functions](https://github.com/creof/doctrine2-spatial)
+ * [Doctrine Specification - Gives you a new way for writing queries](https://github.com/Happyr/Doctrine-Specification)
+
 
 ## License
 
