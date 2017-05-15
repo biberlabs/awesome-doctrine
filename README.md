@@ -73,9 +73,10 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
  * [Doctrine2 Spatial](https://github.com/creof/doctrine2-spatial) - Multi-platform support for spatial types and functions
  * [Doctrine Specification](https://github.com/Happyr/Doctrine-Specification) - Gives you a new way for writing queries
 
-## Open-source Projects using Doctrine
+## Open-Source Projects using Doctrine
 
  * [Packagist](https://packagist.org) - Packagist is the main Composer repository. It aggregates public PHP packages installable with Composer.
+ * [Elcodi](https://github.com/elcodi/elcodi) - E-commerce components for Symfony
 
 ## License
 
