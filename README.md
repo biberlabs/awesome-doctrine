@@ -77,6 +77,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
  * [Packagist](https://packagist.org) - Packagist is the main Composer repository. It aggregates public PHP packages installable with Composer.
  * [Elcodi](https://github.com/elcodi/elcodi) - E-commerce components for Symfony
+ * [Sylius](http://sylius.org/about/developers#foundations) - Sylius is a free, Open Source and exceptionally flexible eCommerce platform.
 
 ## License
 
