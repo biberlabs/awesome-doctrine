@@ -28,6 +28,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Doctrine 2 in Depth](https://web.archive.org/web/*/http://krueckeberg.org/notes/d2.html)
 * [Some Doctrine 2 best practices](http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/) - about performance [2012]
 * [Persisting Value Objects in Doctrine](http://rosstuck.com/persisting-value-objects-in-doctrine/) [2014]
+* [Doctrine2 entity changeset for relations](http://kamiladryjanek.com/doctrine2-entity-changeset-for-relations/) [on Feb 24, 2017]
 
 
 ## Repositories
