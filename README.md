@@ -11,24 +11,21 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Start Coding with Doctrine 2 ORM!](https://smozgur.com/blog/zend-framework/start-coding-with-doctrine-2-orm/) [Published on May 29, 2017]
 
 
-## Best practices
-
-* [Why Doctrine ORM is not suited for PHP](http://web.archive.org/web/20160409001634/http://blog.bemycto.com/software-architecture/2015-05-17/doctrine-orm-not-suited-php) [2015]
-* [Doctrine ORM Good Practices and Tricks](https://vimeo.com/134178140) - [slides](http://ocramius.github.io/doctrine-best-practices/#/) [2015] 
-
-
 ## Slides
 
 * [Extending Doctrine 2 For Your Domain Model](https://speakerdeck.com/player/50548d22bf73df0002051b1f) - 171 lightweight slides with specific examples [2014]
 * [Doctrine fixtures](http://www.slideshare.net/bill16301/doctrine-fixtures) - 13-slides intro to Doctrine Fixtures with Faker [2013]
+* [Doctrine ORM Good Practices and Tricks](https://vimeo.com/134178140) - [slides](http://ocramius.github.io/doctrine-best-practices/#/) [2015] 
 
 
-## Articles
+## Articles / Blog / Notes
 
+* [Why Doctrine ORM is not suited for PHP](http://web.archive.org/web/20160409001634/http://blog.bemycto.com/software-architecture/2015-05-17/doctrine-orm-not-suited-php) [2015]
 * [Doctrine 2 in Depth](https://web.archive.org/web/*/http://krueckeberg.org/notes/d2.html)
 * [Some Doctrine 2 best practices](http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/) - about performance [2012]
 * [Persisting Value Objects in Doctrine](http://rosstuck.com/persisting-value-objects-in-doctrine/) [2014]
 * [Doctrine2 entity changeset for relations](http://kamiladryjanek.com/doctrine2-entity-changeset-for-relations/) [on Feb 24, 2017]
+* [Doctrine 2 Interview with Marco Pivetta, is the one of the maintainers of Doctrine 2](http://in.relation.to/2017/02/27/meet-marco-pivetta/) [Feb 27, 2017]
 
 
 ## Repositories
