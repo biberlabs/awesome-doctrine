@@ -7,7 +7,8 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 * [Culttt](http://culttt.com/search/?q=doctrine) - articles on various basic topics [2014]
 * [Doctrine 2 basic concepts](https://prezi.com/v3rhah2gqfvp/doctrine2-basic-concepts/) - Very simple intro into Doctrine basics [2014]
-* [ORM Cheatsheet](http://ormcheatsheet.com/) [Last Update 3 Years Ago]
+* [ORM Cheatsheet](http://ormcheatsheet.com/) [Last update on May 19, 2015]
+* [Start Coding with Doctrine 2 ORM!](https://smozgur.com/blog/zend-framework/start-coding-with-doctrine-2-orm/) [Published on May 29, 2017]
 
 
 ## Best practices
