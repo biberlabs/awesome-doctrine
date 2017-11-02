@@ -30,6 +30,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Repositories
 
+* [How to use Repository with Doctrine as Service in Symfony](https://www.tomasvotruba.cz/blog/2017/10/16/how-to-use-repository-with-doctrine-as-service-in-symfony/) [2017]
 * [On Taming Repository Classes in Doctrine](http://www.whitewashing.de/2013/03/04/doctrine_repositories.html) [2013]
 
 
