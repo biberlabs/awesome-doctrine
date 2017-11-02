@@ -71,6 +71,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
  * [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations)
  * [Doctrine2 Spatial](https://github.com/creof/doctrine2-spatial) - Multi-platform support for spatial types and functions
  * [Doctrine Specification](https://github.com/Happyr/Doctrine-Specification) - Gives you a new way for writing queries
+ * [DDD Embeddables](https://github.com/biberlabs/ddd-embeddables) - A collection of reusable value objects written in PHP and targeting versions 5.6 and above.
 
 ## Open-Source Projects using Doctrine
 
