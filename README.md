@@ -73,6 +73,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
  * [Doctrine2 Spatial](https://github.com/creof/doctrine2-spatial) - Multi-platform support for spatial types and functions
  * [Doctrine Specification](https://github.com/Happyr/Doctrine-Specification) - Gives you a new way for writing queries
  * [DDD Embeddables](https://github.com/biberlabs/ddd-embeddables) - A collection of reusable value objects written in PHP and targeting versions 5.6 and above.
+ * [Integration of Consistence library with Doctrine ORM](https://github.com/consistence/consistence-doctrine) - This library provides integration of Consistence value objects for Doctrine ORM so that you can use them in your entities.
 
 ## Open-Source Projects using Doctrine
 
