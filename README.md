@@ -67,6 +67,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 ## Related Projects
 
  * [Doctrine UUID](https://github.com/ramsey/uuid-doctrine) - Allow the use of a ramsey/uuid UUID as Doctrine field type.
+ * [Doctrine Point Type](https://github.com/vinyvicente/doctrine-point-type) - POINT as Doctrine field type.
  * [Doctrine2 Behaviors](https://github.com/KnpLabs/DoctrineBehaviors)
  * [Doctrine2 Behavioral Extensions](https://github.com/Atlantic18/DoctrineExtensions)
  * [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations)
