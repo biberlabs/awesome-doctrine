@@ -76,6 +76,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
  * [DDD Embeddables](https://github.com/biberlabs/ddd-embeddables) - A collection of reusable value objects written in PHP and targeting versions 5.6 and above.
  * [Integration of Consistence library with Doctrine ORM](https://github.com/consistence/consistence-doctrine) - This library provides integration of Consistence value objects for Doctrine ORM so that you can use them in your entities.
  * [Doctrine Encrypted Column](https://github.com/carnage/doctrine-encrypted-column) - Provides a secure way to encrypt data in doctrine. Framework agnostic, Libsodium.
+ * [Doctrine DBAL Postgresql](https://github.com/opsway/doctrine-dbal-postgresql) - Add JSON query support to Doctrine DBAL and DQL
 
 ## Open-Source Projects using Doctrine
 
