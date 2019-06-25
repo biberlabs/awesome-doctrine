@@ -26,6 +26,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 * [Persisting Value Objects in Doctrine](http://rosstuck.com/persisting-value-objects-in-doctrine/) [2014]
 * [Doctrine2 entity changeset for relations](http://kamiladryjanek.com/doctrine2-entity-changeset-for-relations/) [on Feb 24, 2017]
 * [Doctrine 2 Interview with Marco Pivetta, is the one of the maintainers of Doctrine 2](http://in.relation.to/2017/02/27/meet-marco-pivetta/) [Feb 27, 2017]
+* [Auto-Increment is the Devil: using UUIDs in Symfony and Doctrine](https://medium.com/@galopintitouan/auto-increment-is-the-devil-using-uuids-in-symfony-and-doctrine-71763721b9a9) [Jul 17, 2018]
 
 
 ## Repositories
