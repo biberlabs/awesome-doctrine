@@ -79,6 +79,8 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
  * [Doctrine Encrypted Column](https://github.com/carnage/doctrine-encrypted-column) - Provides a secure way to encrypt data in doctrine. Framework agnostic, Libsodium.
  * [Doctrine DBAL Postgresql](https://github.com/opsway/doctrine-dbal-postgresql) - Add JSON query support to Doctrine DBAL and DQL
  * [PostgreSQL enhancements for Doctrine2](https://github.com/martin-georgiev/postgresql-for-doctrine) - Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions. 
+ * [Doctrine Spesification](https://github.com/Happyr/Doctrine-Specification) - This library gives you a new way for writing queries. Using the Specification pattern you will get small Specification classes that are highly reusable.
+
 
 ## Open-Source Projects using Doctrine
 
@@ -87,6 +89,11 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
  * [Sylius](http://sylius.org/about/developers#foundations) - Sylius is a free, Open Source and exceptionally flexible eCommerce platform.
  * [OroCRM](https://github.com/oroinc) - The CRM for Marketing and Sales
  * [Mautic](https://github.com/mautic) - Free and Open Source Marketing Automation
+ 
+
+## Awesome Repositories For Doctrine
+
+ * [https://github.com/andreia/awesome-doctrine]()
 
 ## License
 
